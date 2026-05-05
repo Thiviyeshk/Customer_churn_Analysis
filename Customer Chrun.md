@@ -160,14 +160,6 @@ The dataset includes customer behavioral and usage data such as:
 
 
 
-###### **Dashboard Preview**
-
-
-
-(Add your screenshot here)
-
-
-
 ###### **Business Impact**
 
 
