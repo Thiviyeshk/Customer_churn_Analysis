@@ -180,6 +180,18 @@ The dataset includes customer behavioral and usage data such as:
 
 \* Reduces revenue loss through targeted engagement strategies
 
+## 📸 Dashboard Preview
+
+![Churn Analysis Dashboard](churn_analysis.png)
+
+---
+
+## 🎥 Demo Video
+
+[Watch Demo](churn_analysis.mp4)
+
+
+
 
 
 ###### **How to Run**
